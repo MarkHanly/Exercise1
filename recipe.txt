@@ -4,3 +4,8 @@
 
 - Tea
 - Milk
+
+# Method
+
+Boil kettle
+Brew tea
